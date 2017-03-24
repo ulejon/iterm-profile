@@ -223,6 +223,12 @@
 	</dict>
 	<key>Default Bookmark Guid</key>
 	<string>E28AE8DB-93DD-4F74-AE89-3DCCBDBD187A</string>
+	<key>DisableFullscreenTransparency</key>
+	<false/>
+	<key>HideScrollbar</key>
+	<false/>
+	<key>HideTab</key>
+	<true/>
 	<key>HotKeyBookmark</key>
 	<string>E28AE8DB-93DD-4F74-AE89-3DCCBDBD187A</string>
 	<key>HotKeyTogglesWindow</key>
@@ -903,7 +909,7 @@
 			<key>Shortcut</key>
 			<string></string>
 			<key>Silence Bell</key>
-			<false/>
+			<true/>
 			<key>Sync Title</key>
 			<false/>
 			<key>Tags</key>
@@ -1581,6 +1587,8 @@
 	<key>SULastCheckTime</key>
 	<date>2017-03-24T20:05:56Z</date>
 	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>UseBorder</key>
 	<false/>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
