@@ -280,13 +280,13 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>785 110 829 331 0 0 1680 1027 </string>
+	<string>700 90 914 355 0 0 1680 1027 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 210 599 388 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>341 204 918 495 0 0 1680 1027 </string>
+	<string>277 195 796 473 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 73 1674 954 0 0 1680 1027 </string>
+	<string>0 57 1680 970 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>292 276 650 502 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -297,7 +297,7 @@
 	<array>
 		<dict>
 			<key>ASCII Anti Aliased</key>
-			<false/>
+			<true/>
 			<key>Ambiguous Double Width</key>
 			<false/>
 			<key>Ansi 0 Color</key>
@@ -471,7 +471,7 @@
 				<real>1</real>
 			</dict>
 			<key>Blinking Cursor</key>
-			<false/>
+			<true/>
 			<key>Blur</key>
 			<false/>
 			<key>Blur Radius</key>
@@ -921,7 +921,7 @@
 			<key>Use Italic Font</key>
 			<true/>
 			<key>Use Non-ASCII Font</key>
-			<true/>
+			<false/>
 			<key>Vertical Spacing</key>
 			<real>1</real>
 			<key>Visual Bell</key>
@@ -1531,6 +1531,8 @@
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
 	<integer>0</integer>
+	<key>NoSyncPermissionToShowTip</key>
+	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>510923080.96795601</real>
 	<key>PointerActions</key>
@@ -1577,7 +1579,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-03-11T11:07:47Z</date>
+	<date>2017-03-24T20:05:56Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>WordCharacters</key>
